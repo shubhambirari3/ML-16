@@ -2,7 +2,24 @@
 # coding: utf-8
 
 # In[ ]:
+###Question: create different functions to validate the data and create exceptions if required
 
+#Accept roll number
+
+#Create a function to accept n number of subject marks
+
+#accept out of marks
+
+#subject name
+
+#return one dictionary like
+
+#{1: {“English”:67/100 , “Hindi”:45/50, “Sanskrit”: 30/50, “MAths”: 89/100, ‘total’: 231/400, ‘per’:57.75%} ,
+
+2:{}}
+
+
+#Code:
 
 class InvalidRollNumber(Exception):
     pass
