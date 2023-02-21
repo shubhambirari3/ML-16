@@ -16,7 +16,7 @@
 
 #{1: {“English”:67/100 , “Hindi”:45/50, “Sanskrit”: 30/50, “MAths”: 89/100, ‘total’: 231/400, ‘per’:57.75%} ,
 
-2:{}}
+
 
 
 #Code:
@@ -78,7 +78,7 @@ marks_dict = create_marks_dict(roll_number, subject_names, subject_marks, out_of
 print(marks_dict)
 
 
-# In[ ]:
+
 
 
 
